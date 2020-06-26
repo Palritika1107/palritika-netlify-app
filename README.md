@@ -1,0 +1,1 @@
+# palritika-netlify-app
